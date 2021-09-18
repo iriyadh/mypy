@@ -4,7 +4,7 @@ print ("\n\nWelcome to Riyadh's Password Generator")
 
 chars = "!#$%&()*+,-./:;<=>?@[\]^_`'{|}~ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
 
-number = input ('\nAmount of passwords to generate: ')
+number = input ('\nNumber of passwords to generate: ')
 number = int(number)
 
 length = input('\nInput your password length: ')
